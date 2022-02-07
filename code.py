@@ -1,5 +1,5 @@
-x  = input(" type is : ")
-y  = input ("  type is : ")
+x  = input(" a is : ")
+y  = input ("  a is : ")
 
 
 sum = int (x) + int (y)
